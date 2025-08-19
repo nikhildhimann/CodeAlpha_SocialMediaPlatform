@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# 🚀 SocialSphere: A Full-Stack Social Media Platform 🚀
+# 🚀 SocialSphere: Live Demo 🚀
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-brightgreen?style=for-the-badge)](https://mini-social-media-gules.vercel.app/)
 
